@@ -25,7 +25,7 @@ Software:
  * PrusaSlicer 2.6.0
  * https://www.makercase.com/#/basicbox
 
-Dokumentation/Instructions:
+Dokumentation/Instructions only in German:
 
 https://docs.google.com/document/d/1ZV3Ojv_GQDOfvroCxNSDPKCujfRZlxF4aTPLbwcVtrY/edit?usp=sharing
 
