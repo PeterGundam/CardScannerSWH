@@ -10,6 +10,10 @@
 
 Cardscanner created by Ilja,Henri and me during Sketching with Hardware 2023 HU-Berlin
 
+Hardware:
+ * 3D-Drucker Original Prusa Mini
+ * ESP32 witch Dockerstation
+ * AI Thinker ESP32-CAM (OV5640 78MM Kamera Modul 5MP auto focus 160 Grad mit Nachtsicht für ESP32 CAM)
 
 Software:
 
